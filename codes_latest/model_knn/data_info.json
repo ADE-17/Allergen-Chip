@@ -1,0 +1,1588 @@
+{
+    "columns": [
+        "Pim_a",
+        "General_cofactors_15",
+        "Aln_g_4",
+        "Ana_o",
+        "Mes_a_1_RUO",
+        "Can_f_1",
+        "Pen_m_1",
+        "Treatment_of_athsma_2",
+        "Mer_a_1",
+        "Ave_s",
+        "Hev_b_6",
+        "General_cofactors_1",
+        "Ole_e_7",
+        "Can_s_3",
+        "Man_i",
+        "All_c",
+        "Bos_d_4",
+        "Treatment_of_atopic_dematitis_2",
+        "Gal_d_5",
+        "Pet_c",
+        "Pan_m",
+        "French_Region_regionH",
+        "Cor_a_14",
+        "Sin",
+        "Pla_a_2",
+        "Rud_spp.",
+        "Blood_Month_sample_4",
+        "Fag_e_2",
+        "Mus_m_1",
+        "Cor_a_1.0101",
+        "Treatment_of_rhinitis_4",
+        "Loc_m",
+        "Equ_c_milk",
+        "Ost_e",
+        "Sol_spp.",
+        "Pla_a_3",
+        "Blood_Month_sample_3",
+        "Fel_d_7",
+        "Bro_pa",
+        "Car_i",
+        "Tri_s",
+        "Ulm_c",
+        "Cyn_d_1",
+        "Blood_Month_sample_9",
+        "Sensitization",
+        "Ber_e",
+        "Dol_spp",
+        "Pis_v_4_RUO",
+        "Bla_g_1",
+        "Blo_t_10",
+        "General_cofactors_4",
+        "Ara_h_2",
+        "Api_g_1",
+        "Ory_c_2",
+        "Tyr_p_2",
+        "Fel_d_2",
+        "Treatment_of_athsma_6",
+        "Pen_ch",
+        "Asp_f_3",
+        "Tri_a_19.0101",
+        "Fra_e_1",
+        "Treatment_of_athsma_7",
+        "Ara_h_9",
+        "Act_d_2",
+        "Gly_d_2",
+        "Ole_e_9",
+        "Ory_s",
+        "Ves_v",
+        "Can_f_2",
+        "Hor_v",
+        "Ory_c_3",
+        "Treatment_of_athsma_3",
+        "Pru_p_1",
+        "Der_p_2",
+        "Ara_h_15",
+        "Cuc_p",
+        "Art_v_3",
+        "Cry_j_1",
+        "Myt_e",
+        "Pap_s_2S_Albumin",
+        "French_Region_regionB",
+        "Arg_r_1",
+        "Vit_v_1",
+        "All_s",
+        "Sec_c_flour",
+        "Pen_m_4",
+        "Bet_v_6",
+        "Age",
+        "Gad_c_1",
+        "Der_f_2",
+        "Pru_p_7_RUO",
+        "Asp_f_1",
+        "Blood_Month_sample_12",
+        "Phl_p_5",
+        "Pru_av",
+        "Api_m_4",
+        "Gal_d_yolk",
+        "Cuc_m_2",
+        "Skin_Symptoms_9",
+        "Hev_b_5",
+        "Api_m_10",
+        "Alt_a_1",
+        "Chip_Type_ALEX",
+        "Lol_p_1",
+        "Cor_a_1.0103",
+        "Jug_r_1",
+        "Treatment_of_rhinitis_0",
+        "Pen_m_2",
+        "Der_p_20",
+        "Jug_r_pollen",
+        "Der_p_10",
+        "Bet_v_4",
+        "Fag_e",
+        "Gal_d_meat",
+        "Blood_Month_sample_6",
+        "Ara_h_1",
+        "Cic_a",
+        "Bla_g_2",
+        "Api_m_1",
+        "Mac_i_2S_Albumin",
+        "Cor_a_1.0401",
+        "Pla_a_1",
+        "French_Region_regionK",
+        "Che_a_1",
+        "Act_d_10",
+        "Treatment_of_athsma_0",
+        "Gad_m_2+3",
+        "Hev_b_11",
+        "Pec_spp.",
+        "Fic_c",
+        "Ama_r",
+        "French_Region_regionE",
+        "Lup_a",
+        "Mel_g",
+        "Mal_d_3",
+        "Ori_v",
+        "Pen_m_3",
+        "Alt_a_6",
+        "Jug_r_3",
+        "Tri_a_14",
+        "General_cofactors_13",
+        "Mala_s_6",
+        "Art_v",
+        "French_Region_regionF",
+        "General_cofactors_6",
+        "Hel_a",
+        "Der_f_1",
+        "Ani_s_1",
+        "Fag_s_1",
+        "Per_a_7",
+        "Pyr_c",
+        "Pho_d_2",
+        "Bet_v_1",
+        "Sec_c_pollen",
+        "Treatment_of_rhinitis_9",
+        "Car_c",
+        "Act_d_1",
+        "Sal_k_1",
+        "Cra_c_6",
+        "Bla_g_4",
+        "Der_p_21",
+        "French_Region_regionD",
+        "Cor_a_11",
+        "Ara_h_8",
+        "Hev_b_6.02",
+        "Age_of_onsets_0",
+        "Equ_c_meat",
+        "Clu_h",
+        "Bos_d_milk",
+        "Pers_a",
+        "Rural_or_urban_area",
+        "Pis_v_1",
+        "Thu_a_1",
+        "Sco_s",
+        "Che_a",
+        "Can_f_6",
+        "Mus_a",
+        "Sco_s_1",
+        "Tri_a_aA_TI",
+        "Mal_d_2",
+        "Ole_e_7_RUO",
+        "Pis_v_2",
+        "Equ_c_4",
+        "Gal_d_2",
+        "Vac_m",
+        "Gad_m_1",
+        "Ole_e_1",
+        "Treatment_of_rhinitis_2",
+        "Api_g_2",
+        "Par_j",
+        "Pla_l",
+        "Act_d_5",
+        "French_Region_regionC",
+        "Phl_p_12",
+        "Treatment_of_atopic_dematitis_7",
+        "Age_of_onsets_1",
+        "Mal_d_1",
+        "General_cofactors_11",
+        "Sal_s",
+        "Ber_e_1",
+        "Pis_v_3",
+        "Jun_a",
+        "Treatment_of_atopic_dematitis_0",
+        "Skin_Symptoms_0",
+        "Urt_d",
+        "Pas_n",
+        "Pan_b",
+        "Age_of_onsets_5",
+        "Chi_spp.",
+        "Hev_b_1",
+        "Rat_n",
+        "Sus_d_1",
+        "Treatment_of_athsma_1",
+        "Amb_a",
+        "Blo_t_21",
+        "Gly_m_8",
+        "Raj_c",
+        "Treatment_of_atopic_dematitis_1",
+        "Ani_s_3",
+        "Gal_d_1",
+        "Ara_h_3",
+        "Can_f_male_urine",
+        "Cap_h_milk",
+        "Blood_Month_sample_7",
+        "Cla_h_8",
+        "Bos_d_8",
+        "Hom_s_LF",
+        "Ana_o_2",
+        "Art_v_1",
+        "Gal_d_3",
+        "Pha_v",
+        "Blood_Month_sample_5",
+        "French_Region_regionI",
+        "Treatment_of_rhinitis_3",
+        "Gal_d_white",
+        "Ach_d",
+        "Can_s",
+        "Age_of_onsets_4",
+        "Gly_m_5",
+        "Tri_fo",
+        "Dau_c",
+        "Phod_s_1",
+        "Api_g_6",
+        "Cap_h_epithelia",
+        "Hev_b_3",
+        "Skin_Symptoms_1",
+        "Pol_d",
+        "Per_a",
+        "Lol_spp.",
+        "Pis_s",
+        "Age_of_onsets_9",
+        "Cor_a_12_RUO",
+        "Cyp_c_1",
+        "Jug_r_4",
+        "Phl_p_7",
+        "French_Region_regionJ",
+        "Cav_p_1",
+        "Cyn_d",
+        "Chip_Type_ISAC_V1",
+        "Blood_Month_sample_1",
+        "Treatment_of_atopic_dematitis_5",
+        "Der_p_11",
+        "Phr_c",
+        "Ten_m",
+        "Bla_g_5",
+        "General_cofactors_7",
+        "Pol_d_5",
+        "Sal_s_1",
+        "Equ_c_1",
+        "Treatment_of_atopic_dematitis_3",
+        "Bet_v_2",
+        "Mala_s_11",
+        "Treatment_of_athsma_4",
+        "Ail_a",
+        "Sal_k",
+        "Che_q",
+        "Ara_h_6",
+        "Gad_m",
+        "General_cofactors_14",
+        "Sin_a_1",
+        "Blo_t_5",
+        "Bos_d_2",
+        "Treatment_of_atopic_dematitis_6",
+        "Mala_s_5",
+        "General_cofactors_3",
+        "Raj_c_Parvalbumin",
+        "Blood_Month_sample_8",
+        "Fic_b",
+        "Api_m",
+        "Ovi_a_milk",
+        "Cor_a_9",
+        "Thu_a",
+        "Gly_m_6",
+        "Asp_f_4",
+        "Blood_Month_sample_10",
+        "Fel_d_4",
+        "Equ_c_3",
+        "Sola_l",
+        "Sola_l_6",
+        "Ves_v_1",
+        "Bos_d_5",
+        "Ana_o_3",
+        "French_Region_regionG",
+        "Cla_h",
+        "Blood_Month_sample_2",
+        "Ory_meat",
+        "General_cofactors_8",
+        "Jug_r_2",
+        "Hev_b_8",
+        "MUXF3",
+        "Bos_d_6",
+        "Ses_i",
+        "Phl_p_2",
+        "Lep_d_2",
+        "Mor_r",
+        "General_cofactors_5",
+        "Treatment_of_rhinitis_1",
+        "Cup_a_1",
+        "Sol_t",
+        "Bos_d_meat",
+        "Can_f_4",
+        "Phl_p_6",
+        "Gly_m_4",
+        "Age_of_onsets_2",
+        "General_cofactors_0",
+        "Par_j_2",
+        "Bos_d_Lactoferrin",
+        "Zea_m_14",
+        "General_cofactors_10",
+        "Can_f_3",
+        "Aca_s",
+        "Cap_a",
+        "Sus_d_epithelia",
+        "Treatment_of_athsma_8",
+        "Blood_Month_sample_11",
+        "Der_p_5",
+        "Aca_m",
+        "Treatment_of_athsma_5",
+        "Lit_s",
+        "Asp_f_6",
+        "Fra_e",
+        "Phl_p_11",
+        "Len_c",
+        "Ves_v_5",
+        "Phl_p_1",
+        "Fra_a_1+3",
+        "Cit_s",
+        "General_cofactors_9",
+        "Der_p_7",
+        "Pla_l_1",
+        "Tyr_p",
+        "Age_of_onsets_6",
+        "Gal_d_4",
+        "General_cofactors_12",
+        "Can_f_5",
+        "Sac_c",
+        "Ovi_a_epithelia",
+        "Fel_d_1",
+        "Pap_s",
+        "Pru_p_3",
+        "Act_d_8",
+        "French_Region_regionA",
+        "Amb_a_1",
+        "Der_p_23",
+        "Cor_a_8",
+        "Bla_g_7",
+        "Cup_s",
+        "Bla_g_9",
+        "Chip_Type_ISAC_V2",
+        "Ory_c_1",
+        "Phl_p_5.0101",
+        "Treatment_of_atopic_dematitis_4",
+        "Gender",
+        "Ovi_a_meat",
+        "Hom_g",
+        "Cor_a_pollen",
+        "French_Region_regionL",
+        "Dau_c_1",
+        "Der_p_1",
+        "Hev_b_6.01",
+        "Pop_n",
+        "Age_of_onsets_3",
+        "Amb_a_4",
+        "Sus_d_meat",
+        "Jug_r_6",
+        "Zea_m",
+        "French_Region_regionM",
+        "Aln_g_1",
+        "Car_p",
+        "Treatment_of_athsma_9",
+        "Mac_inte",
+        "Ses_i_1",
+        "Alpha-Gal",
+        "Can_f_Fd1",
+        "Clu_h_1",
+        "Xip_g_1",
+        "Tri_a_19",
+        "Pru_du",
+        "Cam_d",
+        "Phl_p_4",
+        "General_cofactors_2"
+    ],
+    "rows": 2989,
+    "cols": 401,
+    "target_is_numeric": true,
+    "columns_info": {
+        "Pim_a": [
+            "missing_values",
+            "scale"
+        ],
+        "General_cofactors_15": [],
+        "Aln_g_4": [
+            "missing_values",
+            "scale"
+        ],
+        "Ana_o": [
+            "missing_values",
+            "scale"
+        ],
+        "Mes_a_1_RUO": [
+            "missing_values",
+            "scale"
+        ],
+        "Can_f_1": [
+            "scale"
+        ],
+        "Pen_m_1": [
+            "scale"
+        ],
+        "Treatment_of_athsma_2": [],
+        "Mer_a_1": [
+            "scale"
+        ],
+        "Ave_s": [
+            "missing_values"
+        ],
+        "Hev_b_6": [
+            "missing_values"
+        ],
+        "General_cofactors_1": [],
+        "Ole_e_7": [
+            "missing_values",
+            "scale"
+        ],
+        "Can_s_3": [
+            "missing_values",
+            "scale"
+        ],
+        "Man_i": [
+            "missing_values"
+        ],
+        "All_c": [
+            "missing_values"
+        ],
+        "Bos_d_4": [
+            "scale"
+        ],
+        "Treatment_of_atopic_dematitis_2": [],
+        "Gal_d_5": [
+            "scale"
+        ],
+        "Pet_c": [
+            "missing_values"
+        ],
+        "Pan_m": [
+            "missing_values"
+        ],
+        "French_Region_regionH": [],
+        "Cor_a_14": [
+            "missing_values",
+            "scale"
+        ],
+        "Sin": [
+            "missing_values"
+        ],
+        "Pla_a_2": [
+            "missing_values",
+            "scale"
+        ],
+        "Rud_spp.": [
+            "missing_values",
+            "scale"
+        ],
+        "Blood_Month_sample_4": [],
+        "Fag_e_2": [],
+        "Mus_m_1": [
+            "scale"
+        ],
+        "Cor_a_1.0101": [
+            "missing_values",
+            "scale"
+        ],
+        "Treatment_of_rhinitis_4": [],
+        "Loc_m": [
+            "missing_values",
+            "scale"
+        ],
+        "Equ_c_milk": [
+            "missing_values"
+        ],
+        "Ost_e": [
+            "missing_values",
+            "scale"
+        ],
+        "Sol_spp.": [
+            "missing_values"
+        ],
+        "Pla_a_3": [
+            "scale"
+        ],
+        "Blood_Month_sample_3": [],
+        "Fel_d_7": [
+            "missing_values",
+            "scale"
+        ],
+        "Bro_pa": [
+            "missing_values"
+        ],
+        "Car_i": [
+            "missing_values",
+            "scale"
+        ],
+        "Tri_s": [
+            "missing_values"
+        ],
+        "Ulm_c": [
+            "missing_values"
+        ],
+        "Cyn_d_1": [
+            "scale"
+        ],
+        "Blood_Month_sample_9": [],
+        "Sensitization": [
+            "scale"
+        ],
+        "Ber_e": [
+            "missing_values",
+            "scale"
+        ],
+        "Dol_spp": [
+            "missing_values"
+        ],
+        "Pis_v_4_RUO": [
+            "missing_values"
+        ],
+        "Bla_g_1": [
+            "scale"
+        ],
+        "Blo_t_10": [
+            "missing_values",
+            "scale"
+        ],
+        "General_cofactors_4": [
+            "constant_column"
+        ],
+        "Ara_h_2": [
+            "scale"
+        ],
+        "Api_g_1": [
+            "scale"
+        ],
+        "Ory_c_2": [
+            "missing_values"
+        ],
+        "Tyr_p_2": [
+            "missing_values",
+            "scale"
+        ],
+        "Fel_d_2": [
+            "scale"
+        ],
+        "Treatment_of_athsma_6": [],
+        "Pen_ch": [
+            "missing_values"
+        ],
+        "Asp_f_3": [
+            "scale"
+        ],
+        "Tri_a_19.0101": [
+            "missing_values"
+        ],
+        "Fra_e_1": [
+            "missing_values",
+            "scale"
+        ],
+        "Treatment_of_athsma_7": [],
+        "Ara_h_9": [
+            "scale"
+        ],
+        "Act_d_2": [
+            "scale"
+        ],
+        "Gly_d_2": [
+            "missing_values",
+            "scale"
+        ],
+        "Ole_e_9": [
+            "scale"
+        ],
+        "Ory_s": [
+            "missing_values"
+        ],
+        "Ves_v": [
+            "missing_values"
+        ],
+        "Can_f_2": [
+            "scale"
+        ],
+        "Hor_v": [
+            "missing_values"
+        ],
+        "Ory_c_3": [
+            "missing_values",
+            "scale"
+        ],
+        "Treatment_of_athsma_3": [],
+        "Pru_p_1": [
+            "missing_values",
+            "scale"
+        ],
+        "Der_p_2": [
+            "scale"
+        ],
+        "Ara_h_15": [
+            "missing_values"
+        ],
+        "Cuc_p": [
+            "missing_values"
+        ],
+        "Art_v_3": [
+            "scale"
+        ],
+        "Cry_j_1": [
+            "scale"
+        ],
+        "Myt_e": [
+            "missing_values"
+        ],
+        "Pap_s_2S_Albumin": [
+            "missing_values"
+        ],
+        "French_Region_regionB": [],
+        "Arg_r_1": [
+            "missing_values"
+        ],
+        "Vit_v_1": [
+            "missing_values",
+            "scale"
+        ],
+        "All_s": [
+            "missing_values"
+        ],
+        "Sec_c_flour": [
+            "missing_values"
+        ],
+        "Pen_m_4": [
+            "scale"
+        ],
+        "Bet_v_6": [
+            "missing_values",
+            "scale"
+        ],
+        "Age": [
+            "missing_values",
+            "scale"
+        ],
+        "Gad_c_1": [
+            "missing_values",
+            "scale"
+        ],
+        "Der_f_2": [
+            "scale"
+        ],
+        "Pru_p_7_RUO": [
+            "missing_values"
+        ],
+        "Asp_f_1": [],
+        "Blood_Month_sample_12": [],
+        "Phl_p_5": [
+            "missing_values",
+            "scale"
+        ],
+        "Pru_av": [
+            "missing_values"
+        ],
+        "Api_m_4": [
+            "missing_values"
+        ],
+        "Gal_d_yolk": [
+            "missing_values"
+        ],
+        "Cuc_m_2": [
+            "missing_values",
+            "scale"
+        ],
+        "Skin_Symptoms_9": [
+            "scale"
+        ],
+        "Hev_b_5": [
+            "scale"
+        ],
+        "Api_m_10": [
+            "missing_values"
+        ],
+        "Alt_a_1": [
+            "scale"
+        ],
+        "Chip_Type_ALEX": [],
+        "Lol_p_1": [
+            "missing_values",
+            "scale"
+        ],
+        "Cor_a_1.0103": [
+            "missing_values",
+            "scale"
+        ],
+        "Jug_r_1": [
+            "scale"
+        ],
+        "Treatment_of_rhinitis_0": [],
+        "Pen_m_2": [
+            "scale"
+        ],
+        "Der_p_20": [
+            "missing_values",
+            "scale"
+        ],
+        "Jug_r_pollen": [
+            "missing_values",
+            "scale"
+        ],
+        "Der_p_10": [
+            "scale"
+        ],
+        "Bet_v_4": [
+            "missing_values",
+            "scale"
+        ],
+        "Fag_e": [
+            "missing_values",
+            "scale"
+        ],
+        "Gal_d_meat": [
+            "missing_values"
+        ],
+        "Blood_Month_sample_6": [],
+        "Ara_h_1": [
+            "scale"
+        ],
+        "Cic_a": [
+            "missing_values",
+            "scale"
+        ],
+        "Bla_g_2": [
+            "scale"
+        ],
+        "Api_m_1": [
+            "missing_values"
+        ],
+        "Mac_i_2S_Albumin": [
+            "missing_values",
+            "scale"
+        ],
+        "Cor_a_1.0401": [
+            "scale"
+        ],
+        "Pla_a_1": [
+            "scale"
+        ],
+        "French_Region_regionK": [],
+        "Che_a_1": [
+            "scale"
+        ],
+        "Act_d_10": [
+            "missing_values",
+            "scale"
+        ],
+        "Treatment_of_athsma_0": [],
+        "Gad_m_2+3": [
+            "missing_values"
+        ],
+        "Hev_b_11": [
+            "missing_values"
+        ],
+        "Pec_spp.": [
+            "missing_values"
+        ],
+        "Fic_c": [
+            "missing_values"
+        ],
+        "Ama_r": [
+            "missing_values"
+        ],
+        "French_Region_regionE": [],
+        "Lup_a": [
+            "missing_values",
+            "scale"
+        ],
+        "Mel_g": [
+            "missing_values"
+        ],
+        "Mal_d_3": [
+            "missing_values",
+            "scale"
+        ],
+        "Ori_v": [
+            "missing_values"
+        ],
+        "Pen_m_3": [
+            "missing_values"
+        ],
+        "Alt_a_6": [
+            "scale"
+        ],
+        "Jug_r_3": [
+            "scale"
+        ],
+        "Tri_a_14": [
+            "scale"
+        ],
+        "General_cofactors_13": [
+            "constant_column"
+        ],
+        "Mala_s_6": [
+            "missing_values"
+        ],
+        "Art_v": [
+            "missing_values",
+            "scale"
+        ],
+        "French_Region_regionF": [],
+        "General_cofactors_6": [],
+        "Hel_a": [
+            "missing_values"
+        ],
+        "Der_f_1": [
+            "scale"
+        ],
+        "Ani_s_1": [
+            "scale"
+        ],
+        "Fag_s_1": [
+            "missing_values",
+            "scale"
+        ],
+        "Per_a_7": [
+            "missing_values",
+            "scale"
+        ],
+        "Pyr_c": [
+            "missing_values"
+        ],
+        "Pho_d_2": [
+            "missing_values",
+            "scale"
+        ],
+        "Bet_v_1": [
+            "scale"
+        ],
+        "Sec_c_pollen": [
+            "missing_values",
+            "scale"
+        ],
+        "Treatment_of_rhinitis_9": [
+            "scale"
+        ],
+        "Car_c": [
+            "missing_values",
+            "scale"
+        ],
+        "Act_d_1": [
+            "scale"
+        ],
+        "Sal_k_1": [
+            "scale"
+        ],
+        "Cra_c_6": [
+            "missing_values",
+            "scale"
+        ],
+        "Bla_g_4": [
+            "missing_values"
+        ],
+        "Der_p_21": [
+            "missing_values",
+            "scale"
+        ],
+        "French_Region_regionD": [],
+        "Cor_a_11": [
+            "missing_values",
+            "scale"
+        ],
+        "Ara_h_8": [
+            "scale"
+        ],
+        "Hev_b_6.02": [
+            "missing_values"
+        ],
+        "Age_of_onsets_0": [],
+        "Equ_c_meat": [
+            "missing_values"
+        ],
+        "Clu_h": [
+            "missing_values"
+        ],
+        "Bos_d_milk": [
+            "missing_values",
+            "scale"
+        ],
+        "Pers_a": [
+            "missing_values"
+        ],
+        "Rural_or_urban_area": [
+            "scale"
+        ],
+        "Pis_v_1": [
+            "missing_values",
+            "scale"
+        ],
+        "Thu_a_1": [
+            "missing_values",
+            "scale"
+        ],
+        "Sco_s": [
+            "missing_values"
+        ],
+        "Che_a": [
+            "missing_values"
+        ],
+        "Can_f_6": [
+            "missing_values",
+            "scale"
+        ],
+        "Mus_a": [
+            "missing_values"
+        ],
+        "Sco_s_1": [
+            "missing_values",
+            "scale"
+        ],
+        "Tri_a_aA_TI": [],
+        "Mal_d_2": [
+            "missing_values"
+        ],
+        "Ole_e_7_RUO": [
+            "missing_values"
+        ],
+        "Pis_v_2": [
+            "missing_values"
+        ],
+        "Equ_c_4": [
+            "missing_values",
+            "scale"
+        ],
+        "Gal_d_2": [
+            "scale"
+        ],
+        "Vac_m": [
+            "missing_values"
+        ],
+        "Gad_m_1": [
+            "missing_values",
+            "scale"
+        ],
+        "Ole_e_1": [
+            "scale"
+        ],
+        "Treatment_of_rhinitis_2": [],
+        "Api_g_2": [
+            "missing_values",
+            "scale"
+        ],
+        "Par_j": [
+            "missing_values"
+        ],
+        "Pla_l": [
+            "missing_values",
+            "scale"
+        ],
+        "Act_d_5": [],
+        "French_Region_regionC": [],
+        "Phl_p_12": [
+            "scale"
+        ],
+        "Treatment_of_atopic_dematitis_7": [
+            "constant_column"
+        ],
+        "Age_of_onsets_1": [],
+        "Mal_d_1": [
+            "scale"
+        ],
+        "General_cofactors_11": [],
+        "Sal_s": [
+            "missing_values"
+        ],
+        "Ber_e_1": [],
+        "Pis_v_3": [
+            "missing_values",
+            "scale"
+        ],
+        "Jun_a": [
+            "missing_values"
+        ],
+        "Treatment_of_atopic_dematitis_0": [],
+        "Skin_Symptoms_0": [],
+        "Urt_d": [
+            "missing_values"
+        ],
+        "Pas_n": [
+            "missing_values",
+            "scale"
+        ],
+        "Pan_b": [
+            "missing_values",
+            "scale"
+        ],
+        "Age_of_onsets_5": [],
+        "Chi_spp.": [
+            "missing_values",
+            "scale"
+        ],
+        "Hev_b_1": [],
+        "Rat_n": [
+            "missing_values"
+        ],
+        "Sus_d_1": [
+            "missing_values",
+            "scale"
+        ],
+        "Treatment_of_athsma_1": [
+            "scale"
+        ],
+        "Amb_a": [
+            "missing_values",
+            "scale"
+        ],
+        "Blo_t_21": [
+            "missing_values",
+            "scale"
+        ],
+        "Gly_m_8": [
+            "missing_values"
+        ],
+        "Raj_c": [
+            "missing_values"
+        ],
+        "Treatment_of_atopic_dematitis_1": [
+            "scale"
+        ],
+        "Ani_s_3": [
+            "scale"
+        ],
+        "Gal_d_1": [
+            "scale"
+        ],
+        "Ara_h_3": [
+            "scale"
+        ],
+        "Can_f_male_urine": [
+            "missing_values",
+            "scale"
+        ],
+        "Cap_h_milk": [
+            "missing_values",
+            "scale"
+        ],
+        "Blood_Month_sample_7": [],
+        "Cla_h_8": [],
+        "Bos_d_8": [
+            "scale"
+        ],
+        "Hom_s_LF": [
+            "missing_values"
+        ],
+        "Ana_o_2": [],
+        "Art_v_1": [
+            "scale"
+        ],
+        "Gal_d_3": [
+            "scale"
+        ],
+        "Pha_v": [
+            "missing_values"
+        ],
+        "Blood_Month_sample_5": [],
+        "French_Region_regionI": [],
+        "Treatment_of_rhinitis_3": [],
+        "Gal_d_white": [
+            "missing_values",
+            "scale"
+        ],
+        "Ach_d": [
+            "missing_values",
+            "scale"
+        ],
+        "Can_s": [
+            "missing_values"
+        ],
+        "Age_of_onsets_4": [],
+        "Gly_m_5": [
+            "scale"
+        ],
+        "Tri_fo": [
+            "missing_values",
+            "scale"
+        ],
+        "Dau_c": [
+            "missing_values",
+            "scale"
+        ],
+        "Phod_s_1": [
+            "missing_values",
+            "scale"
+        ],
+        "Api_g_6": [
+            "missing_values"
+        ],
+        "Cap_h_epithelia": [
+            "missing_values",
+            "scale"
+        ],
+        "Hev_b_3": [],
+        "Skin_Symptoms_1": [],
+        "Pol_d": [
+            "missing_values"
+        ],
+        "Per_a": [
+            "missing_values"
+        ],
+        "Lol_spp.": [
+            "missing_values",
+            "scale"
+        ],
+        "Pis_s": [
+            "missing_values",
+            "scale"
+        ],
+        "Age_of_onsets_9": [
+            "constant_column"
+        ],
+        "Cor_a_12_RUO": [
+            "missing_values"
+        ],
+        "Cyp_c_1": [
+            "missing_values",
+            "scale"
+        ],
+        "Jug_r_4": [
+            "missing_values",
+            "scale"
+        ],
+        "Phl_p_7": [
+            "scale"
+        ],
+        "French_Region_regionJ": [],
+        "Cav_p_1": [
+            "missing_values"
+        ],
+        "Cyn_d": [
+            "missing_values",
+            "scale"
+        ],
+        "Chip_Type_ISAC_V1": [
+            "scale"
+        ],
+        "Blood_Month_sample_1": [],
+        "Treatment_of_atopic_dematitis_5": [],
+        "Der_p_11": [
+            "missing_values"
+        ],
+        "Phr_c": [
+            "missing_values"
+        ],
+        "Ten_m": [
+            "missing_values",
+            "scale"
+        ],
+        "Bla_g_5": [
+            "scale"
+        ],
+        "General_cofactors_7": [],
+        "Pol_d_5": [
+            "missing_values"
+        ],
+        "Sal_s_1": [
+            "missing_values",
+            "scale"
+        ],
+        "Equ_c_1": [
+            "scale"
+        ],
+        "Treatment_of_atopic_dematitis_3": [],
+        "Bet_v_2": [
+            "scale"
+        ],
+        "Mala_s_11": [
+            "missing_values",
+            "scale"
+        ],
+        "Treatment_of_athsma_4": [],
+        "Ail_a": [
+            "missing_values"
+        ],
+        "Sal_k": [
+            "missing_values"
+        ],
+        "Che_q": [
+            "missing_values"
+        ],
+        "Ara_h_6": [
+            "scale"
+        ],
+        "Gad_m": [
+            "missing_values",
+            "scale"
+        ],
+        "General_cofactors_14": [],
+        "Sin_a_1": [
+            "missing_values",
+            "scale"
+        ],
+        "Blo_t_5": [
+            "scale"
+        ],
+        "Bos_d_2": [
+            "missing_values"
+        ],
+        "Treatment_of_atopic_dematitis_6": [],
+        "Mala_s_5": [
+            "missing_values",
+            "scale"
+        ],
+        "General_cofactors_3": [
+            "constant_column"
+        ],
+        "Raj_c_Parvalbumin": [
+            "missing_values"
+        ],
+        "Blood_Month_sample_8": [],
+        "Fic_b": [
+            "missing_values"
+        ],
+        "Api_m": [
+            "missing_values"
+        ],
+        "Ovi_a_milk": [
+            "missing_values",
+            "scale"
+        ],
+        "Cor_a_9": [
+            "scale"
+        ],
+        "Thu_a": [
+            "missing_values"
+        ],
+        "Gly_m_6": [
+            "scale"
+        ],
+        "Asp_f_4": [
+            "missing_values"
+        ],
+        "Blood_Month_sample_10": [],
+        "Fel_d_4": [
+            "scale"
+        ],
+        "Equ_c_3": [
+            "scale"
+        ],
+        "Sola_l": [
+            "missing_values"
+        ],
+        "Sola_l_6": [
+            "missing_values"
+        ],
+        "Ves_v_1": [
+            "missing_values"
+        ],
+        "Bos_d_5": [
+            "scale"
+        ],
+        "Ana_o_3": [
+            "missing_values",
+            "scale"
+        ],
+        "French_Region_regionG": [],
+        "Cla_h": [
+            "missing_values"
+        ],
+        "Blood_Month_sample_2": [],
+        "Ory_meat": [
+            "missing_values"
+        ],
+        "General_cofactors_8": [],
+        "Jug_r_2": [
+            "missing_values",
+            "scale"
+        ],
+        "Hev_b_8": [
+            "scale"
+        ],
+        "MUXF3": [
+            "missing_values",
+            "scale"
+        ],
+        "Bos_d_6": [
+            "scale"
+        ],
+        "Ses_i": [
+            "missing_values",
+            "scale"
+        ],
+        "Phl_p_2": [
+            "scale"
+        ],
+        "Lep_d_2": [
+            "scale"
+        ],
+        "Mor_r": [
+            "missing_values"
+        ],
+        "General_cofactors_5": [],
+        "Treatment_of_rhinitis_1": [],
+        "Cup_a_1": [
+            "scale"
+        ],
+        "Sol_t": [
+            "missing_values"
+        ],
+        "Bos_d_meat": [
+            "missing_values"
+        ],
+        "Can_f_4": [
+            "missing_values",
+            "scale"
+        ],
+        "Phl_p_6": [
+            "scale"
+        ],
+        "Gly_m_4": [
+            "scale"
+        ],
+        "Age_of_onsets_2": [],
+        "General_cofactors_0": [
+            "scale"
+        ],
+        "Par_j_2": [
+            "scale"
+        ],
+        "Bos_d_Lactoferrin": [
+            "missing_values"
+        ],
+        "Zea_m_14": [
+            "missing_values",
+            "scale"
+        ],
+        "General_cofactors_10": [],
+        "Can_f_3": [
+            "scale"
+        ],
+        "Aca_s": [
+            "missing_values",
+            "scale"
+        ],
+        "Cap_a": [
+            "missing_values"
+        ],
+        "Sus_d_epithelia": [
+            "missing_values"
+        ],
+        "Treatment_of_athsma_8": [],
+        "Blood_Month_sample_11": [],
+        "Der_p_5": [
+            "missing_values",
+            "scale"
+        ],
+        "Aca_m": [
+            "missing_values"
+        ],
+        "Treatment_of_athsma_5": [],
+        "Lit_s": [
+            "missing_values",
+            "scale"
+        ],
+        "Asp_f_6": [
+            "scale"
+        ],
+        "Fra_e": [
+            "missing_values",
+            "scale"
+        ],
+        "Phl_p_11": [
+            "missing_values",
+            "scale"
+        ],
+        "Len_c": [
+            "missing_values",
+            "scale"
+        ],
+        "Ves_v_5": [
+            "missing_values"
+        ],
+        "Phl_p_1": [
+            "scale"
+        ],
+        "Fra_a_1+3": [
+            "missing_values",
+            "scale"
+        ],
+        "Cit_s": [
+            "missing_values"
+        ],
+        "General_cofactors_9": [],
+        "Der_p_7": [
+            "missing_values",
+            "scale"
+        ],
+        "Pla_l_1": [
+            "scale"
+        ],
+        "Tyr_p": [
+            "missing_values",
+            "scale"
+        ],
+        "Age_of_onsets_6": [],
+        "Gal_d_4": [
+            "missing_values",
+            "scale"
+        ],
+        "General_cofactors_12": [
+            "constant_column"
+        ],
+        "Can_f_5": [
+            "missing_values",
+            "scale"
+        ],
+        "Sac_c": [
+            "missing_values"
+        ],
+        "Ovi_a_epithelia": [
+            "missing_values"
+        ],
+        "Fel_d_1": [
+            "scale"
+        ],
+        "Pap_s": [
+            "missing_values",
+            "scale"
+        ],
+        "Pru_p_3": [
+            "scale"
+        ],
+        "Act_d_8": [
+            "missing_values",
+            "scale"
+        ],
+        "French_Region_regionA": [],
+        "Amb_a_1": [
+            "scale"
+        ],
+        "Der_p_23": [
+            "missing_values",
+            "scale"
+        ],
+        "Cor_a_8": [
+            "scale"
+        ],
+        "Bla_g_7": [
+            "missing_values",
+            "scale"
+        ],
+        "Cup_s": [
+            "missing_values"
+        ],
+        "Bla_g_9": [
+            "missing_values",
+            "scale"
+        ],
+        "Chip_Type_ISAC_V2": [],
+        "Ory_c_1": [
+            "missing_values"
+        ],
+        "Phl_p_5.0101": [
+            "missing_values",
+            "scale"
+        ],
+        "Treatment_of_atopic_dematitis_4": [],
+        "Gender": [
+            "missing_values",
+            "scale"
+        ],
+        "Ovi_a_meat": [
+            "missing_values"
+        ],
+        "Hom_g": [
+            "missing_values",
+            "scale"
+        ],
+        "Cor_a_pollen": [
+            "missing_values",
+            "scale"
+        ],
+        "French_Region_regionL": [],
+        "Dau_c_1": [
+            "missing_values",
+            "scale"
+        ],
+        "Der_p_1": [
+            "scale"
+        ],
+        "Hev_b_6.01": [
+            "missing_values",
+            "scale"
+        ],
+        "Pop_n": [
+            "missing_values"
+        ],
+        "Age_of_onsets_3": [],
+        "Amb_a_4": [
+            "missing_values",
+            "scale"
+        ],
+        "Sus_d_meat": [
+            "missing_values"
+        ],
+        "Jug_r_6": [
+            "missing_values",
+            "scale"
+        ],
+        "Zea_m": [
+            "missing_values"
+        ],
+        "French_Region_regionM": [],
+        "Aln_g_1": [
+            "scale"
+        ],
+        "Car_p": [
+            "missing_values"
+        ],
+        "Treatment_of_athsma_9": [],
+        "Mac_inte": [
+            "missing_values",
+            "scale"
+        ],
+        "Ses_i_1": [
+            "scale"
+        ],
+        "Alpha-Gal": [
+            "missing_values"
+        ],
+        "Can_f_Fd1": [
+            "missing_values",
+            "scale"
+        ],
+        "Clu_h_1": [
+            "missing_values",
+            "scale"
+        ],
+        "Xip_g_1": [
+            "missing_values",
+            "scale"
+        ],
+        "Tri_a_19": [
+            "missing_values",
+            "scale"
+        ],
+        "Pru_du": [
+            "missing_values",
+            "scale"
+        ],
+        "Cam_d": [
+            "missing_values"
+        ],
+        "Phl_p_4": [
+            "missing_values",
+            "scale"
+        ],
+        "General_cofactors_2": [
+            "constant_column"
+        ]
+    },
+    "target_info": [],
+    "n_features": 401,
+    "is_sample_weighted": false,
+    "is_fairness_applied": false,
+    "n_classes": 2
+}

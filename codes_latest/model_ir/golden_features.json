@@ -1,0 +1,280 @@
+{
+    "new_features": [
+        {
+            "feature1": "Treatment_of_athsma_0",
+            "feature2": "Treatment_of_rhinitis_0",
+            "operation": "sum",
+            "score": 0.2970742029
+        },
+        {
+            "feature1": "Treatment_of_athsma_0",
+            "feature2": "Treatment_of_rhinitis_0",
+            "operation": "multiply",
+            "score": 0.3010456767
+        },
+        {
+            "feature1": "Treatment_of_athsma_0",
+            "feature2": "Treatment_of_rhinitis_0",
+            "operation": "ratio",
+            "score": 0.3010456767
+        },
+        {
+            "feature1": "Treatment_of_rhinitis_0",
+            "feature2": "Treatment_of_athsma_0",
+            "operation": "ratio",
+            "score": 0.3010456767
+        },
+        {
+            "feature1": "Treatment_of_athsma_0",
+            "feature2": "Treatment_of_rhinitis_9",
+            "operation": "diff",
+            "score": 0.3103961223
+        },
+        {
+            "feature1": "French_Region_regionM",
+            "feature2": "Treatment_of_rhinitis_0",
+            "operation": "sum",
+            "score": 0.3198553974
+        },
+        {
+            "feature1": "French_Region_regionM",
+            "feature2": "Treatment_of_athsma_0",
+            "operation": "sum",
+            "score": 0.3223965777
+        },
+        {
+            "feature1": "Treatment_of_athsma_0",
+            "feature2": "French_Region_regionD",
+            "operation": "diff",
+            "score": 0.3226048845
+        },
+        {
+            "feature1": "Treatment_of_rhinitis_0",
+            "feature2": "French_Region_regionD",
+            "operation": "diff",
+            "score": 0.3240037989
+        },
+        {
+            "feature1": "Treatment_of_rhinitis_0",
+            "feature2": "Treatment_of_athsma_1",
+            "operation": "diff",
+            "score": 0.3270840773
+        },
+        {
+            "feature1": "Treatment_of_rhinitis_0",
+            "feature2": "French_Region_regionC",
+            "operation": "diff",
+            "score": 0.3281210611
+        },
+        {
+            "feature1": "Treatment_of_athsma_0",
+            "feature2": "Treatment_of_athsma_1",
+            "operation": "diff",
+            "score": 0.3303019096
+        },
+        {
+            "feature1": "Treatment_of_athsma_2",
+            "feature2": "Treatment_of_rhinitis_0",
+            "operation": "diff",
+            "score": 0.3321144552
+        },
+        {
+            "feature1": "Treatment_of_athsma_0",
+            "feature2": "Treatment_of_rhinitis_2",
+            "operation": "diff",
+            "score": 0.3322698413
+        },
+        {
+            "feature1": "Treatment_of_athsma_6",
+            "feature2": "Treatment_of_rhinitis_0",
+            "operation": "diff",
+            "score": 0.3329142325
+        },
+        {
+            "feature1": "Treatment_of_athsma_0",
+            "feature2": "French_Region_regionC",
+            "operation": "diff",
+            "score": 0.3333512845
+        },
+        {
+            "feature1": "Treatment_of_rhinitis_0",
+            "feature2": "Treatment_of_athsma_4",
+            "operation": "diff",
+            "score": 0.3342116299
+        },
+        {
+            "feature1": "Treatment_of_rhinitis_0",
+            "feature2": "Hel_a",
+            "operation": "diff",
+            "score": 0.3342498078
+        },
+        {
+            "feature1": "Treatment_of_athsma_0",
+            "feature2": "French_Region_regionL",
+            "operation": "diff",
+            "score": 0.3346010753
+        },
+        {
+            "feature1": "Treatment_of_rhinitis_0",
+            "feature2": "Treatment_of_rhinitis_2",
+            "operation": "diff",
+            "score": 0.3350396764
+        },
+        {
+            "feature1": "Treatment_of_athsma_7",
+            "feature2": "Treatment_of_rhinitis_0",
+            "operation": "diff",
+            "score": 0.3351053852
+        },
+        {
+            "feature1": "Treatment_of_rhinitis_0",
+            "feature2": "Lol_p_1",
+            "operation": "sum",
+            "score": 0.3355211719
+        },
+        {
+            "feature1": "Treatment_of_athsma_0",
+            "feature2": "Age_of_onsets_4",
+            "operation": "diff",
+            "score": 0.3356746994
+        },
+        {
+            "feature1": "Treatment_of_rhinitis_0",
+            "feature2": "Per_a_7",
+            "operation": "diff",
+            "score": 0.3357516981
+        },
+        {
+            "feature1": "Treatment_of_atopic_dematitis_2",
+            "feature2": "Treatment_of_rhinitis_0",
+            "operation": "diff",
+            "score": 0.3358505417
+        },
+        {
+            "feature1": "Treatment_of_rhinitis_0",
+            "feature2": "French_Region_regionL",
+            "operation": "diff",
+            "score": 0.3360065626
+        },
+        {
+            "feature1": "Treatment_of_athsma_0",
+            "feature2": "Treatment_of_rhinitis_1",
+            "operation": "diff",
+            "score": 0.3360597995
+        },
+        {
+            "feature1": "Treatment_of_rhinitis_0",
+            "feature2": "French_Region_regionJ",
+            "operation": "diff",
+            "score": 0.3361475187
+        },
+        {
+            "feature1": "Treatment_of_rhinitis_0",
+            "feature2": "Lit_s",
+            "operation": "diff",
+            "score": 0.3362974451
+        },
+        {
+            "feature1": "Treatment_of_rhinitis_0",
+            "feature2": "Blo_t_10",
+            "operation": "sum",
+            "score": 0.3366730703
+        },
+        {
+            "feature1": "Treatment_of_athsma_0",
+            "feature2": "Pis_v_1",
+            "operation": "diff",
+            "score": 0.3371575525
+        },
+        {
+            "feature1": "Treatment_of_athsma_0",
+            "feature2": "Treatment_of_rhinitis_3",
+            "operation": "diff",
+            "score": 0.3371759862
+        },
+        {
+            "feature1": "Treatment_of_rhinitis_0",
+            "feature2": "Age_of_onsets_6",
+            "operation": "diff",
+            "score": 0.3372336638
+        },
+        {
+            "feature1": "Blood_Month_sample_9",
+            "feature2": "Treatment_of_rhinitis_0",
+            "operation": "diff",
+            "score": 0.3372364288
+        },
+        {
+            "feature1": "Treatment_of_atopic_dematitis_4",
+            "feature2": "Treatment_of_rhinitis_0",
+            "operation": "sum",
+            "score": 0.3373143801
+        },
+        {
+            "feature1": "Treatment_of_rhinitis_0",
+            "feature2": "Treatment_of_rhinitis_3",
+            "operation": "diff",
+            "score": 0.3373280574
+        },
+        {
+            "feature1": "Treatment_of_athsma_2",
+            "feature2": "Treatment_of_athsma_0",
+            "operation": "diff",
+            "score": 0.3373527101
+        },
+        {
+            "feature1": "Treatment_of_rhinitis_0",
+            "feature2": "Ulm_c",
+            "operation": "sum",
+            "score": 0.3374580456
+        },
+        {
+            "feature1": "Blo_t_10",
+            "feature2": "Treatment_of_athsma_0",
+            "operation": "diff",
+            "score": 0.3374888468
+        }
+    ],
+    "new_columns": [
+        "Treatment_of_athsma_0_sum_Treatment_of_rhinitis_0",
+        "Treatment_of_athsma_0_multiply_Treatment_of_rhinitis_0",
+        "Treatment_of_athsma_0_ratio_Treatment_of_rhinitis_0",
+        "Treatment_of_rhinitis_0_ratio_Treatment_of_athsma_0",
+        "Treatment_of_athsma_0_diff_Treatment_of_rhinitis_9",
+        "French_Region_regionM_sum_Treatment_of_rhinitis_0",
+        "French_Region_regionM_sum_Treatment_of_athsma_0",
+        "Treatment_of_athsma_0_diff_French_Region_regionD",
+        "Treatment_of_rhinitis_0_diff_French_Region_regionD",
+        "Treatment_of_rhinitis_0_diff_Treatment_of_athsma_1",
+        "Treatment_of_rhinitis_0_diff_French_Region_regionC",
+        "Treatment_of_athsma_0_diff_Treatment_of_athsma_1",
+        "Treatment_of_athsma_2_diff_Treatment_of_rhinitis_0",
+        "Treatment_of_athsma_0_diff_Treatment_of_rhinitis_2",
+        "Treatment_of_athsma_6_diff_Treatment_of_rhinitis_0",
+        "Treatment_of_athsma_0_diff_French_Region_regionC",
+        "Treatment_of_rhinitis_0_diff_Treatment_of_athsma_4",
+        "Treatment_of_rhinitis_0_diff_Hel_a",
+        "Treatment_of_athsma_0_diff_French_Region_regionL",
+        "Treatment_of_rhinitis_0_diff_Treatment_of_rhinitis_2",
+        "Treatment_of_athsma_7_diff_Treatment_of_rhinitis_0",
+        "Treatment_of_rhinitis_0_sum_Lol_p_1",
+        "Treatment_of_athsma_0_diff_Age_of_onsets_4",
+        "Treatment_of_rhinitis_0_diff_Per_a_7",
+        "Treatment_of_atopic_dematitis_2_diff_Treatment_of_rhinitis_0",
+        "Treatment_of_rhinitis_0_diff_French_Region_regionL",
+        "Treatment_of_athsma_0_diff_Treatment_of_rhinitis_1",
+        "Treatment_of_rhinitis_0_diff_French_Region_regionJ",
+        "Treatment_of_rhinitis_0_diff_Lit_s",
+        "Treatment_of_rhinitis_0_sum_Blo_t_10",
+        "Treatment_of_athsma_0_diff_Pis_v_1",
+        "Treatment_of_athsma_0_diff_Treatment_of_rhinitis_3",
+        "Treatment_of_rhinitis_0_diff_Age_of_onsets_6",
+        "Blood_Month_sample_9_diff_Treatment_of_rhinitis_0",
+        "Treatment_of_atopic_dematitis_4_sum_Treatment_of_rhinitis_0",
+        "Treatment_of_rhinitis_0_diff_Treatment_of_rhinitis_3",
+        "Treatment_of_athsma_2_diff_Treatment_of_athsma_0",
+        "Treatment_of_rhinitis_0_sum_Ulm_c",
+        "Blo_t_10_diff_Treatment_of_athsma_0"
+    ],
+    "ml_task": "binary_classification"
+}
