@@ -1,5 +1,5 @@
 Allergy_Present,Severe_Allergy,Respiratory_Allergy,Food_Allergy,Venom_Allergy,Type_of_Respiratory_Allergy_ARIA,Type_of_Respiratory_Allergy_CONJ,Type_of_Respiratory_Allergy_GINA,Type_of_Respiratory_Allergy_IGE_Pollen_Gram,Type_of_Respiratory_Allergy_IGE_Pollen_Herb,Type_of_Respiratory_Allergy_IGE_Pollen_Tree,Type_of_Respiratory_Allergy_IGE_Dander_Animals,Type_of_Respiratory_Allergy_IGE_Mite_Cockroach,Type_of_Respiratory_Allergy_IGE_Molds_Yeast,Type_of_Food_Allergy_Aromatics,Type_of_Food_Allergy_Other,Type_of_Food_Allergy_Cereals_&_Seeds,Type_of_Food_Allergy_Egg,Type_of_Food_Allergy_Fish,Type_of_Food_Allergy_Fruits_and_Vegetables,Type_of_Food_Allergy_Mammalian_Milk,Type_of_Food_Allergy_Oral_Syndrom,Type_of_Food_Allergy_Other_Legumes,Type_of_Food_Allergy_Peanut,Type_of_Food_Allergy_Shellfish,Type_of_Food_Allergy_TPO,Type_of_Food_Allergy_Tree_Nuts,Type_of_Venom_Allergy_ATCD_Venom,Type_of_Venom_Allergy_IGE_Venom
-1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 1,1,1,0,0,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
